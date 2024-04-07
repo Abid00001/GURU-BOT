@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['255694039542', 'Jflex', true],
-  ['255782034394', 'Jflex💀', true], 
+  ['6283119841777', 'Jflex', true],
+  ['6289656280102', 'Jflex💀', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "6283119841777" //put your bot number here
 
 global.mods = ['255694039542','255782034394'] 
 global.prems = ['255694039542', '255782034394', '254782121248']
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ANIME-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'Muba' 
-global.author = 'Jflex' 
+global.author = 'Abid' 
 global.menuvid = 'https://i.imgur.com/WaX21ZY.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
